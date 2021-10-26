@@ -183,6 +183,9 @@ function tieneTresDigitos(numero){
     return true;
   }
   return false;
+
+  // Otro metodo 👇
+  //return numero.toString().length === 3
 }
 
 function doWhile(numero) {
