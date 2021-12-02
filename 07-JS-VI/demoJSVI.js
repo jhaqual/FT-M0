@@ -13,3 +13,5 @@ function mayuscula(nombre) {
   }
 
 mayuscula("jose")
+
+console.log ("agua")
